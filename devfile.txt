@@ -1,4 +1,9 @@
 This is the dev file
+
 certain lines of code need to be automated
 no confusion 
 be calm,have patience successfull will be mine
+
+Adding few lines of code in this document for reference
+Thankyou for making all the changes 
+
