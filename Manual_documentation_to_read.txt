@@ -1,2 +1,3 @@
 preparing a document for all the testers to understand the flow of the application
 Reading and finding the defects is the most crucial thing
+The third line is one of the most crucial informations that we need to understand and deal with it
